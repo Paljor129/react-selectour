@@ -1,0 +1,112 @@
+.head3 {
+  padding-top: 15vh;
+  background-image: url(selectour-afat_accueil-vacances.jpg);
+  background-position: center;
+  background-repeat:
+  no-repeat;
+  color: white;
+  background-size: cover;
+  height: 70vh;
+}
+.head31 {
+  font-size: 2.8vw;
+  font-weight: 700;
+  text-align: center;
+  line-height: inherit;
+  padding: 0;
+  margin: 0;
+  letter-spacing: -0.1vw;
+}
+.head32 {
+  margin: 1vw;
+  font-size: 3.2vw;
+  text-align: center;
+  font-weight: lighter;
+  letter-spacing: -0.15vw;
+}
+.headBox{
+  background-image: url(https://www.selectour.com/assets/img/design/maindiapobackground.png);
+  width: 90vw;
+  min-width: 2.15vw;
+  height: 30vh;
+  display: block;
+  margin-top: 10vh;
+  margin-left: 5vw;
+}
+.headBox1 {
+  display: flex;
+  align-items: center;
+  height: 18vh;
+}
+.sel {
+  width: 15vw;
+  display: flex;
+  padding-top: 2vh;
+  padding-right: 0;
+  margin: 0;
+}
+.i {
+  width: 1vw;
+  padding-left: 2vw;
+  display: flex;
+  align-items: flex-end;
+  cursor: pointer;
+}
+.b {
+  padding-left: 1vw;
+}
+.n {
+  font-size: 1.8vw;
+  cursor: pointer;
+}
+.t {
+  width: 9vw;
+  font-size: 1.3vw;
+  border-right: 1px solid white;
+  cursor: pointer;
+}
+.search {
+  display: inline-flex;
+}
+.search1 {
+  border-style: none;
+}
+.searchPlace {
+  color: black;
+  width: 30vw;
+  height: 7vh;
+  margin-left: 2vw;
+  border-radius: 1vw;
+  color: black;
+}
+.villeBtn {
+  color: black;
+  width: 17vw;
+  height: 7vh;
+  margin-left: 1vw;
+  border-radius: 1vw;
+  cursor: pointer;
+}
+.date {
+  color: black;
+  width: 17vw;
+  height: 7vh;
+  margin-left: 1vw;
+  border-radius: 1vw;
+  cursor: pointer;
+}
+.btn {
+  width: 17vw;
+  height: 7vh;
+  margin-left: 1vw;
+  border-radius: 0.2vw;
+  border: 0;
+  background-color: rgb(240,136,51);
+  color: white;
+  font-size: 2vw;
+  cursor: pointer;
+  text-align: left;
+}
+.pal {
+  height: 100vh;
+}

@@ -1,0 +1,61 @@
+.headInfo {
+  position: fixed;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(238,116,18);
+  top: 0;
+  color: white;
+  font-size: 1.1vw;
+  line-height: 1.7vh;
+  padding-top: 1.5vh;
+  letter-spacing: -0.02vw;
+}
+.headInfo1 {
+  width: 34vw;
+  display: inline-block;
+  padding-left: 3vw;
+  padding-top: 0;
+  margin-top: 0;
+}
+.small {
+  font-size: 0.8vw;
+  font-weight: 500;
+}
+.dropDown {
+  position: relative;  display: inline-block;
+  cursor: pointer;
+}
+
+.dropDownContent {
+    text-align: right;
+    border-radius: 0.2vw;
+    display: none;
+    position: absolute;
+    background-color: white;
+    color: rgb(0,176,219);
+    min-width: 30vw;
+    z-index: 1;
+}
+.dropDown:hover .dropDownContent {
+    display: block;
+}
+.dropFir {
+  font-size: 0.85vw;
+  padding: 0.8vw;
+  letter-spacing: -0.03vw;
+}
+.line {
+  border-top: 0.6vh solid rgb(0,176,219) ;
+}
+.dropSec {
+  font-size: 1.2vw;
+  padding: 0.8vw;
+}
+.headInfo3 {
+  padding-right: 3vw;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
