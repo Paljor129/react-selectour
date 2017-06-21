@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Headnav from './head1/head.js';
-import Home from './head1/home.js'
+import Headnav from './head1/Head.jsx';
+import Home from './head1/Home.jsx'
 
 class App extends Component {
   render() {
